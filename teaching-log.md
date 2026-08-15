@@ -25,5 +25,8 @@ I am learning Git and version control to track my work.
 - Cursor repo issues https://github.com/cursor/plugins/issues 
 (The above link is for the official cursor repo)
 
+## PR Templates
+- adding pr templates saves time and add structure to your pull requests
+
 
 
