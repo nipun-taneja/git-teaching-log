@@ -1,1 +1,3 @@
-This file is for practicing merge conflict resolution. // this is branch 1 one edit
+
+This file is for practicing merge conflict resolution. 
+
