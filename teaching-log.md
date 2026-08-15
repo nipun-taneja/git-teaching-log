@@ -21,3 +21,8 @@ I am learning Git and version control to track my work.
 - [GitHub Docs](https://docs.github.com) - Official GitHub documentation
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
 
+## Real World Examples
+- Cursor repo issues https://github.com/cursor/plugins/issues 
+
+
+
